@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pandas
+xarray
+faiss-cpu
+transformers
+torch
+langchain
+streamlit
